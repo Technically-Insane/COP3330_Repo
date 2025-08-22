@@ -67,7 +67,7 @@ class example_file
   The body holds all the "code". Computations, a return statements, variable redefinitions, etc.
   */
 
-  public Subtract(int x, int y)
+  public int Subtract(int x, int y)
   {
     return x - y;
   }

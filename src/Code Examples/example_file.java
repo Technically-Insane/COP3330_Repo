@@ -44,7 +44,7 @@ class example_file
     When the method is called, these arguments must be filled in order to be typed properly.
     */
 
-   Add(1, 2);
+   int ex = Add(1, 2);
 
    /*
    Here, I call the method with x = 1, and y = 2. 
